@@ -272,6 +272,23 @@ const Home = () => {
               View Website{" "}
             </a>
           </div>
+          <div className="project">
+            <div className="project-text">
+              <h2 className="project-name">Movie Website </h2>
+              <h4 className="project-technologies">MERN</h4>
+            </div>
+            <img
+              src="https://scontent.xx.fbcdn.net/v/t1.15752-9/410491649_702407755327575_8428482639608542065_n.png?stp=dst-png_p206x206&_nc_cat=101&ccb=1-7&_nc_sid=510075&_nc_ohc=OjMrRIAueKAAX8Z8edY&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQh5O61ILmJuVc9rSXU7wfTF3yfWufV2E_1tVd2QPxukA&oe=65A1424D"
+              className="project-img"
+            />
+            <a
+              href="https://mov-dv4y.onrender.com/"
+              className="project-link"
+              target="_blank"
+            >
+              View Website{" "}
+            </a>
+          </div>
         </div>
       </section>
 

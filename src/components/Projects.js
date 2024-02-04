@@ -26,29 +26,25 @@ export const Projects = () => {
     {
       title: "Shop Website",
       description: "Nextjs",
-      imgUrl:
-        "https://scontent.xx.fbcdn.net/v/t1.15752-9/403394942_1382829645655115_394241643674106534_n.png?stp=dst-png_p206x206&_nc_cat=110&ccb=1-7&_nc_sid=510075&_nc_ohc=y-B2ydve4GwAX-BE5vg&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdQ7CpA-X4_NzC0E5rBbD_7QenbtOeIuoI6-Qhjl_VhnOw&oe=65E5FFEE",
+      imgUrl: "Screenshot (9).png",
       webUrl: "https://shop-7l9b.vercel.app/",
     },
     {
       title: "Movie Website",
       description: "MERN",
-      imgUrl:
-        "https://scontent.xx.fbcdn.net/v/t1.15752-9/410491649_702407755327575_8428482639608542065_n.png?stp=dst-png_p206x206&_nc_cat=101&ccb=1-7&_nc_sid=510075&_nc_ohc=Fn6iWIM0U_MAX9wHHGR&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTNqBHGksUQVIvGuBiYCvxi8YeyBH4a8pVI2VMHgN7fsA&oe=65E5D04D",
+      imgUrl: "Screenshot (13).png",
       webUrl: "https://mov-dv4y.onrender.com/",
     },
     {
       title: "Porfolio Website",
       description: "Nextjs",
-      imgUrl:
-        "https://scontent.xx.fbcdn.net/v/t1.15752-9/398411024_871977677724491_623173634656328917_n.png?stp=dst-png_p206x206&_nc_cat=105&ccb=1-7&_nc_sid=510075&_nc_ohc=3Un7Xmf8Zu0AX9bLYli&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdRoIw2o68ANEFXzHHJ1SS7qZOn4v861vxrlWe0F_3Rz8w&oe=65E5DAF0",
+      imgUrl: "Screenshot (14).png",
       webUrl: "https://portfolio-lteg.vercel.app/",
     },
     {
       title: "Hoobank",
       description: "React",
-      imgUrl:
-        "https://scontent.xx.fbcdn.net/v/t1.15752-9/420398222_772156441637553_5957726365896642611_n.png?stp=dst-png_p206x206&_nc_cat=101&ccb=1-7&_nc_sid=510075&_nc_ohc=x2XDa6oItaoAX8wE736&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdTil53YveT2YF7K7vs7XfZE1HjFN065CLynJz7sg-e-SQ&oe=65E5DDAE",
+      imgUrl: "Screenshot (15).png",
       webUrl: "https://hoobankk.onrender.com/",
     },
   ];
